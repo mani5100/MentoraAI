@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "227894000637",
+    "project_id": "mentora-ai-9438f",
+    "storage_bucket": "mentora-ai-9438f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227894000637:android:9a2f6164b8d77e148c7794",
+        "android_client_info": {
+          "package_name": "com.example.mentora_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADgsNbRt1_T2UxQpBnD1lhy6G1PQ9_5Zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
