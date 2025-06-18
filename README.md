@@ -58,7 +58,7 @@ Mentora AI supports both Android and iOS devices.
 
 Explore the full UI design and user flow on Figma:
 
-👉 [View Figma Prototype]([https://www.figma.com/file/your-prototype-link](https://www.figma.com/proto/EsZvsWHpQHqUQ6cniGOp6G/MentoraAI?node-id=4-4&p=f&t=5jClZRhocnvqhzjz-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A4))
+👉 [View Figma Prototype](https://www.figma.com/proto/EsZvsWHpQHqUQ6cniGOp6G/MentoraAI?node-id=4-4&p=f&t=5jClZRhocnvqhzjz-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A4)
 
 ## 📌 Project Status
 
