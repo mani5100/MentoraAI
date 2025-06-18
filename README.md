@@ -60,6 +60,10 @@ Explore the full UI design and user flow on Figma:
 
 👉 [View Figma Prototype](https://www.figma.com/proto/EsZvsWHpQHqUQ6cniGOp6G/MentoraAI?node-id=4-4&p=f&t=5jClZRhocnvqhzjz-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A4)
 
+## 🎨 CV
+
+👉 [CV](https://drive.google.com/file/d/1Tl2oi_t2byE34uVUG47dDerf6tCbdbCE/view?usp=sharing)
+
 ## 📌 Project Status
 
 This project is currently under development. The core features are implemented using Flutter and Firebase.
